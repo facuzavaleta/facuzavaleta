@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @facuzavaleta
+- 👋 Hi, I’m @facuzavaleta, from Argentina
 - 👀 I’m interested in Full-Stack Develop
 - 🌱 I’m currently learning C, Python, JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- :computer: Currently on Lenovo G50-30 with Linux Mint v20.3
 - 📫 How to reach me ...
 -   E-Mail: facuzavaleta890@gmail.com
 -   Linkedin: linkedin.com/in/facuzavaleta89/
