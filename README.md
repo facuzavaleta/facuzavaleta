@@ -16,7 +16,7 @@
  
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 
-- 💻 Currently on Lenovo G50-30 with Linux Mint v20.3
+- 💻 Currently on a Lenovo G50-30 with Linux Mint v20.3
 
 - 📫 How to reach me...
 *   E-Mail: facuzavaleta890@gmail.com
