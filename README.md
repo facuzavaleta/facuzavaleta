@@ -3,6 +3,7 @@
 - 👀 I’m interested in Full-Stack Develop
 
 - 📖 Knowledge aquired in:
+
    🌕 English  |  
    🌕 Python (Programming Certificate Associated in Python, Cisco Networking Academy)  |  
    🌔 Django (Official Django Documentation)  |  
