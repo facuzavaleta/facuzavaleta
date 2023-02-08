@@ -4,15 +4,11 @@
 
 - 📖 Knowledge aquired in:
 
-   🌕 English 
-	
-   🌕 Python (Programming Certificate Associated in Python, Cisco Networking Academy) 
-	
-   🌔 Django (Official Django Documentation) 
-	
-   🌔 Git / GitHub 
-	
-   🌓 C (CS50x, Harvard University) 
+   🌕 English | 
+   🌕 Python (Programming Certificate Associated in Python, Cisco Networking Academy) | 
+   🌔 Django (Official Django Documentation) | 
+   🌔 Git / GitHub | 
+   🌓 C (CS50x, Harvard University)
  
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 
