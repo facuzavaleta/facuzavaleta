@@ -15,7 +15,7 @@
 
 - 📫 How to reach me...
 *   E-Mail: facuzavaleta890@gmail.com
-*   Linkedin: linkedin.com/in/facuzavaleta89/
+*   Linkedin: https://linkedin.com/in/facuzavaleta89/
 
 <!---
 facuzavaleta/facuzavaleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
