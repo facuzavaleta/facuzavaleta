@@ -4,8 +4,9 @@
 
 - 📖 Knowledge aquired in:
 
-   🌕 English | 
-   🌕 Python (Programming Certificate Associated in Python, Cisco Networking Academy) | 
+   🌕 English |
+   🌕 Python (Programming Certificate Associated in Python, Cisco Networking Academy) |
+   🌕 HTML - CSS (Google) |
    🌔 Django (Official Django Documentation) | 
    🌔 Git / GitHub | 
    🌓 C (CS50x, Harvard University)
