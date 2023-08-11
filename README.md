@@ -11,7 +11,7 @@
    🌔 Git / GitHub | 
    🌓 C (CS50x, Harvard University)
  
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning JavaScript, NodeJS, ExpresJS
 
 - 💻 Currently on a Lenovo G50-30 with Linux Mint v20.3
 
