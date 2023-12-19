@@ -11,7 +11,7 @@
    🌔 Git / GitHub | 
    🌓 C (CS50x, Harvard University)
  
-- 🌱 I’m currently learning JavaScript, NodeJS, ExpressJS
+- 🌱 At the moment improving in React+ViteJs
 
 - 💻 Currently on a Lenovo G50-30 with Linux Mint v20.3
 
